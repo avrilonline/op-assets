@@ -1,0 +1,442 @@
+[
+  {
+    "n": "01",
+    "title": "Hero — Floating Centered",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "ref": "Reference image",
+    "prompt": "A lime-green matte sphere robot with two recessed vertical-oval glossy black eyes, floating perfectly still in center frame, deep black void background #060a0f, centered composition with generous negative space above and below, 85mm lens perspective, single hard key light from upper left casting a clean highlight across the upper hemisphere and a soft falloff into shadow on the lower right, cinematic product photography style referencing Apple product launch imagery, matte sandblast surface finish with fine visible grain texture, faint grid reflections in the glossy eye surfaces, subtle film grain overlay",
+    "notes": "Core hero. Use as OG image, above-fold, or presentation opener."
+  },
+  {
+    "n": "02",
+    "title": "Hero — Extreme Close-Up Face",
+    "aspect": "9:16",
+    "mode": "Gen",
+    "res": "1536×2752",
+    "ref": "Reference image",
+    "prompt": "Extreme close-up of a lime-green matte sphere robot face filling 85% of vertical frame, two large recessed vertical-oval glossy black eyes dominating the composition, only upper hemisphere visible with top of sphere cropped, deep black background #060a0f, macro lens with very shallow depth of field — left eye tack sharp and right eye slightly soft, single overhead key light creating a bright specular band across the forehead area, cinematic product macro photography, matte sandblast surface texture with individual grain particles visible, glossy glass-like eye surfaces reflecting a faint rectangular grid pattern, no reflections on ground, film grain",
+    "notes": "Vertical hero for app stores, story covers, tall banner placements."
+  },
+  {
+    "n": "03",
+    "title": "Hero — Dramatic Backlit Silhouette",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "A lime-green matte sphere robot seen from straight ahead, almost entirely in silhouette, intense cyan-blue backlight creating a thin precise rim highlight tracing the full circumference of the sphere, eyes faintly visible as two dark voids catching a sliver of the rim light on their glossy edges, deep black background, centered in lower third of frame with vast dark space above, backlit silhouette photography style, matte surface catching just enough light to reveal fine grain texture at the edges, cinematic atmosphere, subtle lens flare from the rim light, film grain",
+    "notes": "High-drama variant. Works for launch announcements, teaser campaigns."
+  },
+  {
+    "n": "04",
+    "title": "Hero — Pair / Lineup",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "ref": "Reference image",
+    "prompt": "Three identical lime-green matte sphere robots with recessed vertical-oval glossy black eyes, arranged in a diagonal line receding into depth from lower-left to upper-right, each progressively smaller due to perspective, deep black void background, shallow depth of field with front unit sharp and rear units gradually softer, key light from upper left illuminating all three consistently, product lineup photography style, each sphere showing matte sandblast texture, cinematic composition with leading line, film grain",
+    "notes": "Product family shot. Also works for \"team plan\" marketing."
+  },
+  {
+    "n": "05",
+    "title": "Hero — Top-Down Overhead",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "A lime-green matte sphere robot seen from directly above, bird's-eye view looking straight down at the top of the sphere, two vertical-oval glossy black eyes visible in the lower portion of the circular form, sphere perfectly centered in square frame, deep black background, single overhead light source creating a bright highlight dead center on the apex of the sphere with shadow falling equally on all sides, product photography top-down flat lay style, matte sandblast surface texture, film grain, clean and geometric composition",
+    "notes": "Square format hero for social posts, app icons base, grid layouts."
+  },
+  {
+    "n": "06",
+    "title": "Portrait — Front Straight",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "ref": "Reference image",
+    "prompt": "A lime-green matte sphere robot facing directly at camera, two recessed vertical-oval glossy black eyes centered on the face, sphere occupying 70% of the square frame, perfectly centered, deep black background #060a0f, no ground plane, no reflections, neutral studio key light from upper left with soft fill from lower right, clean product photography, matte sandblast surface finish with fine grain, glossy eye surfaces showing faint grid reflection, film grain",
+    "notes": "The canonical portrait. ID shot, avatar base, documentation reference."
+  },
+  {
+    "n": "07",
+    "title": "Portrait — Three-Quarter Right",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "ref": "Reference image",
+    "prompt": "A lime-green matte sphere robot rotated approximately 30 degrees to the right, showing three-quarter view with both eyes visible but the right eye appearing slightly narrower due to perspective, sphere occupying 70% of frame, deep black background, key light from upper left creating a highlight on the left hemisphere and shadow falloff across the right side, product photography, matte sandblast texture, both eyes maintaining glossy glass-like appearance with reflections, film grain",
+    "notes": "Conversational angle. Good for chat contexts and editorial usage."
+  },
+  {
+    "n": "08",
+    "title": "Portrait — Slight Upward Tilt",
+    "aspect": "4:5",
+    "mode": "Gen",
+    "res": "1638×2048",
+    "prompt": "A lime-green matte sphere robot with a subtle upward tilt as if looking slightly above the viewer, camera positioned at eye level, eyes appear to gaze up and to the right, creating a contemplative expression, sphere occupying 65% of frame, deep black background, Rembrandt-style lighting with key from upper left creating a triangular highlight pattern, product photography with slight editorial feel, matte sandblast surface, glossy eyes with grid reflections, film grain",
+    "notes": "Aspirational/thoughtful tone. Good for blog headers and feature callouts."
+  },
+  {
+    "n": "09",
+    "title": "Portrait — Dead-On Symmetrical",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "A lime-green matte sphere robot facing directly at camera with perfect bilateral symmetry, two identical recessed vertical-oval glossy black eyes equidistant from center, camera at exact eye level, sphere filling 80% of frame, deep black background, perfectly even flat lighting with no dominant key direction — both sides equally lit to emphasize symmetry, clinical product photography style like a spec sheet illustration, matte sandblast texture uniformly visible, both eyes showing identical grid reflections, no film grain, sharp across entire surface",
+    "notes": "Technical reference. Spec sheet, documentation, icon derivation."
+  },
+  {
+    "n": "10",
+    "title": "Portrait — Profile / Full Side",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "A lime-green matte sphere robot in full profile view rotated 90 degrees to the right, one eye visible at the edge of the silhouette as a dark crescent, the sphere reads as a perfect circle in silhouette with the single eye providing orientation, deep black background, strong key light from directly behind-left creating a dramatic rim highlight on the left edge and shadow on the visible face, product photography, matte sandblast surface, film grain",
+    "notes": "Graphic/editorial usage. Strong as a section divider or watermark base."
+  },
+  {
+    "n": "11",
+    "title": "Hardware — Back Panel Full",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "ref": "Reference image",
+    "prompt": "Back view of a lime-green matte sphere robot rotated 170 degrees away from camera, showing the rear panel: debossed \"SPHR-UNIT 002\" text in monospace sans-serif laser-etched into surface same hue as body but darker value, below it a 3-pin pogo connector with gold-colored pins seated in a brushed stainless steel rounded-rectangle surround, below that a USB-C port in a matching brushed steel surround, to the right side a circular speaker grille with a uniform dot perforation pattern, one glossy black eye partially visible at the far right edge, deep black background, macro product photography, key light from upper left revealing surface grain and metallic connector details, film grain",
+    "notes": "Hardware detail hero. Shows the \"device\" nature of the character."
+  },
+  {
+    "n": "12",
+    "title": "Hardware — Pogo Pin Macro",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "Extreme macro close-up of a 3-pin pogo connector on a lime-green matte sphere surface, three gold spring-loaded pins seated in a brushed stainless steel rounded-rectangle housing, debossed monospace text \"SPHR-UNIT 002\" partially visible above the connector, very shallow depth of field with only the center pin tack-sharp, green matte sandblast surface texture visible at grain level, product macro photography with ring light creating even illumination on the metallic surfaces while the green body falls into soft shadow, deep black background, film grain",
+    "notes": "Engineering detail. Appeals to hardware/tech audience."
+  },
+  {
+    "n": "13",
+    "title": "Hardware — USB-C Port Detail",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "Macro close-up of a USB-C port inset into a lime-green matte sphere surface, brushed stainless steel rectangular surround with chamfered edges, the port opening revealing a standard USB-C tongue connector inside, lime-green sandblast texture surrounding the port with individual grain particles visible at macro scale, shallow depth of field, product macro photography, directional key light from above creating a precise highlight on the steel surround, deep black background, film grain",
+    "notes": "Recognizable tech element. Grounds the character as hardware, not cartoon."
+  },
+  {
+    "n": "14",
+    "title": "Hardware — Speaker Grille Detail",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "Close-up of a circular speaker grille on a lime-green matte sphere, uniform grid of small circular perforations cut into the sphere surface revealing dark interior, grille area is approximately 12mm diameter with a recessed dark border ring, surrounding lime-green sandblast surface texture, shot from a slight angle to create depth in the perforations, product macro photography, raking light from the left to emphasize the three-dimensionality of each hole, deep black background, film grain",
+    "notes": "Textural detail. Communicates audio/voice capability."
+  },
+  {
+    "n": "15",
+    "title": "Hardware — Surface Texture Extreme Macro",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "Extreme macro of the surface of a lime-green matte sphere at near-microscopic scale, individual sandblast grain particles visible as a uniform random texture across the entire frame, the curvature of the sphere barely perceptible at this scale, a subtle color shift from brighter lime where light hits to deeper olive-green in shadow, no eyes or features visible — pure surface texture study, product material photography, even raking light from the left, extremely shallow depth of field with sharp center band, deep black in out-of-focus areas, no film grain to avoid confusing texture with grain",
+    "notes": "Material reference. Use as background texture tile or brand surface."
+  },
+  {
+    "n": "16",
+    "title": "Expression — Neutral / Default",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "ref": "Reference image",
+    "prompt": "A lime-green matte sphere robot with two recessed vertical-oval glossy black eyes in their default neutral position, eyes evenly sized and vertically centered on the face, no emotional inflection — calm and observant, sphere occupying 70% of frame, deep black background, standard key light from upper left, product photography, matte sandblast texture, glossy eye surfaces with faint grid reflections, film grain",
+    "notes": "Baseline expression. All other expressions deviate from this."
+  },
+  {
+    "n": "17",
+    "title": "Expression — Alert / Wide-Eyed",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "A lime-green matte sphere robot with two recessed vertical-oval glossy black eyes opened 20% wider than normal — taller ovals indicating surprise or alertness, eyes positioned slightly higher on the face than default, sphere occupying 70% of frame, deep black background, brighter key light from upper left to emphasize the enlarged eye openings, product photography, matte sandblast texture, more prominent grid reflections in the larger eye surfaces, film grain",
+    "notes": "Notification state. Use for alerts, updates, \"new feature\" callouts."
+  },
+  {
+    "n": "18",
+    "title": "Expression — Sleepy / Dimmed",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "A lime-green matte sphere robot with two recessed vertical-oval glossy black eyes half-closed — upper portion of each eye covered as if heavy-lidded, creating short squat ovals instead of tall ones, overall appearance of drowsiness or powering down, sphere occupying 70% of frame, deep black background, dimmer softer lighting than normal with the key light reduced in intensity, product photography, matte sandblast texture, minimal reflections visible in the narrowed eye slits, film grain",
+    "notes": "Sleep/standby state. Useful for \"do not disturb\" or nighttime contexts."
+  },
+  {
+    "n": "19",
+    "title": "Expression — Focused / Squint",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "A lime-green matte sphere robot with two recessed vertical-oval glossy black eyes narrowed slightly as if squinting or concentrating, eyes 15% shorter vertically than default, positioned slightly closer together creating an intent focused look, sphere occupying 70% of frame, deep black background, key light from directly ahead creating flat even illumination on the face, product photography, matte sandblast texture, concentrated reflections in compressed eye surfaces, film grain",
+    "notes": "Processing/working state. Pair with code or search features."
+  },
+  {
+    "n": "20",
+    "title": "Expression — Glancing Right",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "A lime-green matte sphere robot facing camera but with both recessed vertical-oval glossy black eyes shifted to the right side of their sockets, as if looking at something off-screen to the right, creates a sense of awareness and attentiveness, the shift is subtle — approximately 15% rightward displacement, sphere occupying 70% of frame, deep black background, key light from upper left, product photography, matte sandblast texture, eye reflections shifted to match the new gaze direction, film grain",
+    "notes": "Directional attention. Good for \"look at this\" callouts, paired with UI."
+  },
+  {
+    "n": "21",
+    "title": "Expression — Happy / Curved Eyes",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "A lime-green matte sphere robot with two recessed glossy black eyes curved into upward arcs — bottom edges rounded up as if smiling with the eyes, creating inverted-U or crescent shapes instead of straight ovals, conveying warmth and friendliness, sphere occupying 70% of frame, deep black background, warm-toned key light from upper left with a slightly golden tint, product photography, matte sandblast texture, reflections visible in curved glossy surfaces, film grain",
+    "notes": "Success/welcome state. Onboarding, confirmation screens, celebration."
+  },
+  {
+    "n": "22",
+    "title": "Environment — Desk Setup",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "A lime-green matte sphere robot sitting on a dark matte black desk surface next to a MacBook Pro laptop and a ceramic coffee mug, sphere positioned in the right third of the frame, shallow depth of field with the sphere sharp and the laptop soft, warm interior ambient lighting from a desk lamp creating a cozy workspace atmosphere, the sphere's eyes reflecting the laptop screen faintly, residential office environment in the background blurred, lifestyle product photography, matte sandblast sphere texture, film grain",
+    "notes": "Lifestyle context. \"Your AI assistant on your desk\" narrative."
+  },
+  {
+    "n": "23",
+    "title": "Environment — Server Room",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "A lime-green matte sphere robot hovering at eye level in a dark server room corridor, rows of black server racks with blue and green LED indicator lights stretching into the background on both sides, cool blue ambient lighting from overhead, the sphere lit by the server LEDs creating a cyan-blue rim light on one side and green status-light glow on the other, data center environment, cinematic photography with anamorphic lens creating horizontal flares from the LED points, matte sandblast sphere texture, film grain",
+    "notes": "DevOps/infrastructure context. Pairs with server monitoring feature."
+  },
+  {
+    "n": "24",
+    "title": "Environment — Floating in Clouds",
+    "aspect": "9:16",
+    "mode": "Gen",
+    "res": "1536×2752",
+    "prompt": "A lime-green matte sphere robot floating weightlessly in a dark sky surrounded by soft volumetric clouds at twilight, clouds are deep blue-gray with edges lit by distant warm light from below the horizon, the sphere positioned in upper third of vertical frame, lit by the same warm horizon light from below creating an unusual underlit effect on the sphere, vast atmospheric depth, aerial photography feel, matte sandblast texture on sphere catching the warm light, eyes reflecting the cloud layer, film grain, \"cloud computing\" visual metaphor",
+    "notes": "Abstract/conceptual. \"In the cloud\" metaphor for marketing."
+  },
+  {
+    "n": "25",
+    "title": "Environment — Workshop Bench",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "A lime-green matte sphere robot sitting on a worn wooden workbench surrounded by precision tools — small screwdrivers, tweezers, a magnifying loupe, solder iron, and scattered electronic components, sphere facing camera from the center of the bench, warm overhead work light creating a pool of illumination on the bench surface with dark workshop background, the sphere is the cleanest object in a cluttered environment, product-in-context photography, matte sandblast sphere texture contrasting with the rough wood grain, film grain",
+    "notes": "Maker/builder context. \"Built with care\" craftsmanship narrative."
+  },
+  {
+    "n": "26",
+    "title": "Environment — Night Cityscape",
+    "aspect": "21:9",
+    "mode": "Gen",
+    "res": "2752×1180",
+    "prompt": "A lime-green matte sphere robot perched on the edge of a concrete rooftop ledge, city skyline at night stretching across the ultrawide frame behind it, buildings with warm interior lights and cool blue exterior lighting, sphere positioned in the left quarter of frame at small scale against the vast urban panorama, single key light from a nearby rooftop fixture illuminating the sphere, cinematic photography with deep depth of field keeping both sphere and city sharp, matte sandblast texture, eyes reflecting tiny city lights, film grain, 21:9 ultrawide aspect ratio",
+    "notes": "Cinematic ultrawide. Banner hero, presentation backgrounds."
+  },
+  {
+    "n": "27",
+    "title": "Environment — Minimal White Surface",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "A lime-green matte sphere robot sitting on an infinite white surface, soft shadow cast directly beneath, clean white cyclorama background, the sphere is the only element with color in the entire frame, positioned slightly left of center, bright even studio lighting with large soft overhead source eliminating harsh shadows, high-key product photography contrasting with the usual dark aesthetic, matte sandblast texture prominent against the white, glossy eyes appearing especially dark against the bright environment, no film grain, clean and minimal",
+    "notes": "Light-mode variant. Use for documentation, white-background contexts."
+  },
+  {
+    "n": "28",
+    "title": "Social — Instagram Post Square",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "A lime-green matte sphere robot positioned in the lower-right quadrant of a square frame, looking up and to the left toward generous empty space that occupies the upper-left two-thirds of the image — designed for text overlay, deep black background #060a0f, key light from upper left, the negative space is intentional and clean with no texture or elements, product photography, matte sandblast texture, glossy eyes with grid reflections, film grain, composition optimized for Instagram square post with text overlay area",
+    "notes": "Text-overlay optimized. Add headlines in the negative space."
+  },
+  {
+    "n": "29",
+    "title": "Social — Story Vertical",
+    "aspect": "9:16",
+    "mode": "Gen",
+    "res": "1536×2752",
+    "prompt": "A lime-green matte sphere robot at extreme close-up filling the lower 40% of a vertical 9:16 frame, only the top of the head and eyes visible as if peeking up from the bottom edge, wide empty space above for text and sticker overlays, deep black background, dramatic underlit key light illuminating the face from below, eyes looking straight up at the viewer, product photography, matte sandblast texture, glossy eye reflections, film grain, composed for Instagram/TikTok story format with intentional top-heavy negative space",
+    "notes": "Story peek-up composition. Strong visual hook for vertical formats."
+  },
+  {
+    "n": "30",
+    "title": "Social — Twitter/X Header Banner",
+    "aspect": "3:1",
+    "mode": "Gen",
+    "res": "3072×1024",
+    "prompt": "A lime-green matte sphere robot small in frame positioned at the far right edge, looking left across a vast expanse of deep black background that stretches across the 3:1 banner ratio, negative space dominates 85% of the frame on the left side for text overlay, subtle fine dot grid pattern barely visible in the dark background adding texture to the empty space, key light from upper left, product photography, matte sandblast sphere texture, glossy eyes, film grain, horizontal banner composition optimized for Twitter/X profile header with text overlay area",
+    "notes": "Wide banner. Logo lockup goes in the left negative space."
+  },
+  {
+    "n": "31",
+    "title": "Social — OG Image / Link Preview",
+    "aspect": "1.91:1",
+    "mode": "Gen",
+    "res": "2400×1256",
+    "prompt": "A lime-green matte sphere robot centered in a 1.91:1 OG image frame, sphere at medium scale occupying 35% of frame height, deep black background with extremely subtle radial lighter area behind the sphere suggesting depth, generous space above and below for safe areas in link preview crops, key light from upper left, clean product photography, matte sandblast texture, glossy eyes with grid reflections, film grain, composition designed for Open Graph link preview with safe margins on all sides",
+    "notes": "Link preview image. Will be auto-cropped differently per platform."
+  },
+  {
+    "n": "32",
+    "title": "Social — YouTube Thumbnail",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "A lime-green matte sphere robot in dramatic three-quarter view in the right third of a 16:9 frame, alert expression with slightly widened eyes, dynamic angle as if the sphere just turned to look at the viewer, left two-thirds of frame is deep black negative space designed for bold text overlay, strong contrasty key light from upper left with no fill — creating dramatic light-to-shadow transition across the face, cinematic photography, matte sandblast texture, prominent glossy eye reflections, film grain, high-contrast composition optimized for YouTube thumbnail readability at small sizes",
+    "notes": "Thumbnail-optimized. High contrast for small-size legibility."
+  },
+  {
+    "n": "33",
+    "title": "Packaging — Unboxing Top View",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "Bird's-eye view looking down into an open matte black box with magnetic lid folded back, a lime-green matte sphere robot nestled in a precision-cut foam insert in the center of the box, the foam is dark charcoal gray with a perfect sphere-shaped cavity, a small printed card and USB-C cable visible in a secondary compartment beside the sphere, clean packaging design with embossed logo on the inner lid, product unboxing photography on a dark surface, even overhead studio lighting, matte sandblast sphere texture contrasting with the soft-touch box finish, no film grain, clean and sharp",
+    "notes": "Unboxing moment. Premium hardware unboxing aesthetic."
+  },
+  {
+    "n": "34",
+    "title": "Packaging — Box Exterior",
+    "aspect": "4:5",
+    "mode": "Gen",
+    "res": "1638×2048",
+    "prompt": "A closed matte black cube-shaped product box with a small lime-green circle embossed on the front face (representing the Operator character), box sitting on a dark surface at a slight angle showing front and right side, minimal text — only \"Operator\" in white sans-serif near the bottom of the front face, premium consumer electronics packaging design, dark studio photography with key light revealing the soft-touch matte finish of the box, subtle edge lighting, Apple-level packaging quality, no film grain",
+    "notes": "Retail box exterior. Clean, minimal, premium."
+  },
+  {
+    "n": "35",
+    "title": "Packaging — Hand Holding Unit",
+    "aspect": "4:5",
+    "mode": "Gen",
+    "res": "1638×2048",
+    "prompt": "A human hand holding a lime-green matte sphere robot between thumb and fingers, the sphere is approximately the size of a tennis ball fitting naturally in the palm, the hand is coming from the lower right of a 4:5 frame against a deep black background, the sphere is positioned in the upper center of frame, key light from upper left illuminating both the hand and the sphere, the sphere's eyes facing the camera, lifestyle product photography showing scale and portability, matte sandblast sphere texture, natural skin tones on the hand, film grain",
+    "notes": "Scale reference. Shows the object is real, holdable, physical."
+  },
+  {
+    "n": "36",
+    "title": "Packaging — Charging Dock",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "A lime-green matte sphere robot sitting in a small matte black circular charging dock, the dock has a subtle ring LED that glows soft green indicating charging status, the sphere rests naturally in the concave dock surface with the pogo pin connector on the bottom making contact with gold charging pins in the dock, placed on a dark desk surface, warm ambient room lighting with a focused key light on the sphere-dock assembly, product photography, matte sandblast sphere texture, soft green LED glow reflecting on nearby surfaces, film grain",
+    "notes": "Accessory shot. Establishes charging ecosystem and hardware credibility."
+  },
+  {
+    "n": "37",
+    "title": "Abstract — Dot Grid Field",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "Abstract pattern of hundreds of tiny lime-green dots arranged in a precise uniform grid on a deep black background #060a0f, dots are small and evenly spaced, the grid subtly curves as if mapped onto an invisible sphere surface creating a gentle fish-eye distortion at the center, dots at the center are brighter and more saturated, dots toward the edges fade to darker olive tones, no sphere or character visible — purely abstract geometric pattern, clean digital rendering, no film grain, seamless background texture",
+    "notes": "Background tile. Use behind text blocks, slides, or as UI surfaces."
+  },
+  {
+    "n": "38",
+    "title": "Abstract — Topographic Contours",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "Abstract topographic contour line pattern in lime-green on deep black background, thin continuous lines following concentric circular paths with organic undulation as if tracing the terrain of a sphere, lines are 1px thin and spaced 6-8px apart, center of the pattern is denser representing the apex of a sphere, overall effect suggests a wireframe globe or elevation map, clean vector-like rendering, no fill between lines — just strokes on black, no film grain, suitable as a background texture or pattern",
+    "notes": "Data/terrain metaphor. Technical audience, DevOps contexts."
+  },
+  {
+    "n": "39",
+    "title": "Abstract — Sphere Bokeh Field",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "Abstract field of soft out-of-focus lime-green circular bokeh orbs of varying sizes scattered across a deep black background, orbs range from 20px to 200px diameter, each orb is a soft feathered circle with brighter center and fading edges, some orbs overlap creating additive brightness, the overall pattern is random but balanced across the frame, no character or objects — purely abstract light effect, cinematic photography bokeh style, clean and ethereal, film grain",
+    "notes": "Atmospheric backdrop. Event graphics, ambient backgrounds."
+  },
+  {
+    "n": "40",
+    "title": "Abstract — Noise / Grain Texture",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "Seamless fine noise texture in lime-green and black, uniform random static pattern similar to analog television noise but tinted in matte lime-green tones, very fine grain scale, overall mid-dark value — not bright, the texture should tile seamlessly, no gradients or patterns within the noise — purely random, flat rendering, no depth or dimension, suitable as an overlay texture at low opacity",
+    "notes": "Overlay texture. Apply at 2-5% opacity over dark backgrounds for surface."
+  },
+  {
+    "n": "41",
+    "title": "Abstract — Radial Burst",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "Abstract radial line burst pattern centered in a square frame, hundreds of thin lime-green lines radiating outward from a dark center point, lines are 0.5px thin and perfectly straight, the center has a small dark circle void where no lines exist — suggesting the negative space of the character, lines become more transparent toward the edges of the frame, deep black background, clean geometric rendering, no film grain, high contrast between the thin green lines and black background",
+    "notes": "Graphic element. App launch animation keyframe, loading state."
+  },
+  {
+    "n": "42",
+    "title": "Abstract — Atmospheric Void with Rim",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "A large dark circle occupying the center 50% of a 16:9 frame, the circle's edge defined only by a razor-thin cyan-blue rim light, interior of the circle is pure black void, the surrounding area is very dark charcoal #0a0a0f with fine atmospheric haze, the composition suggests a planet or portal — empty and expectant, no character or features visible, just the geometric void with its luminous edge, cinematic photography atmosphere, film grain, designed as a background for centered text or logo overlay",
+    "notes": "Teaser/launch graphic. The void implies the character without showing it."
+  },
+  {
+    "n": "43",
+    "title": "Brand — OG Card Template",
+    "aspect": "1.91:1",
+    "mode": "Gen",
+    "res": "2400×1256",
+    "prompt": "Deep black background #060a0f with a very subtle lighter area in the center suggesting depth, extremely minimal — the entire image is essentially a controlled dark void with just enough tonal variation to prevent it reading as pure flat black, fine film grain texture across the entire surface, no objects no elements no character — pure brand background designed for white text and logo overlay, 1.91:1 aspect ratio for OG image usage, clean and atmospheric",
+    "notes": "Blank OG template. Add logotype and tagline in post-production."
+  },
+  {
+    "n": "44",
+    "title": "Brand — Avatar / Favicon",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "1024×1024",
+    "ref": "Reference image",
+    "prompt": "A lime-green matte sphere robot face tightly cropped in a 1:1 square, sphere filling 90% of the frame with minimal margin, face perfectly centered and symmetrical, two recessed vertical-oval glossy black eyes, deep black background visible only in the corners, flat even front lighting with no dramatic shadows to ensure readability at small sizes like 16x16 favicon, product photography, matte sandblast texture, clear glossy eye surfaces, no film grain, maximum sharpness and clarity for small-format usage",
+    "notes": "Favicon/avatar. Optimized for extreme downscaling to 16px."
+  },
+  {
+    "n": "45",
+    "title": "Environment — Multiple Units Cluster",
+    "aspect": "1:1",
+    "mode": "Gen",
+    "res": "2048×2048",
+    "prompt": "Seven lime-green matte sphere robots of identical design clustered together in a loose organic group, some overlapping, viewed from slightly above, all facing different directions creating a sense of individual personality within conformity, deep black background, single key light from upper left casting shadows between the spheres, product photography with shallow depth of field — front spheres sharp and rear ones soft, matte sandblast texture on all units, various glossy eye reflections, film grain, \"team\" or \"community\" metaphor",
+    "notes": "Community/team visual. Multi-user features, social proof."
+  },
+  {
+    "n": "46",
+    "title": "Detail — Eye Extreme Macro",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "Extreme macro of a single recessed vertical-oval glossy black eye on a lime-green matte sphere surface, the eye fills 60% of the 16:9 frame, showing the glossy glass-like surface with clearly visible rectangular grid reflection pattern, the recessed edge where glossy black eye meets matte green body visible as a precise machined chamfer, surrounding sandblast texture at grain-level detail, very shallow depth of field with only the center of the eye surface sharp, product macro photography, directional key light creating a specular highlight on the eye glass, film grain",
+    "notes": "Signature detail. The grid reflection in the eye is the character's soul."
+  },
+  {
+    "n": "47",
+    "title": "Mood — Underwater Caustics",
+    "aspect": "16:9",
+    "mode": "Gen",
+    "res": "2752×1536",
+    "prompt": "A lime-green matte sphere robot suspended in dark water, subtle underwater caustic light patterns playing across the sphere surface, tiny air bubbles clinging to the matte texture, deep dark blue-black water environment fading to black in all directions, the sphere lit by a single shaft of light from above penetrating the water surface creating a cone of illumination, eyes visible and reflecting the caustic patterns, underwater photography with visible light scatter in the water medium, matte surface texture interacting with water, film grain",
+    "notes": "Conceptual/editorial. \"Deep work\" metaphor, unusual atmosphere."
+  },
+  {
+    "n": "48",
+    "title": "Mood — Dusty Spotlight",
+    "aspect": "4:5",
+    "mode": "Gen",
+    "res": "1638×2048",
+    "prompt": "A lime-green matte sphere robot on a dark surface in a completely dark room, a single narrow spotlight beam from directly above illuminating only the sphere, visible dust particles floating in the spotlight beam above the sphere catching the light, the sphere casts a small hard shadow directly beneath, everything outside the spotlight cone is pure black, theatrical stage lighting effect, the matte sandblast surface texture is fully revealed in the harsh directional light, eyes appear extra glossy in contrast to the matte body, film grain, dramatic chiaroscuro",
+    "notes": "Theatrical mood. Launch reveal, dramatic announcement."
+  }
+]

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Op Assets</title>
+  <style>
+    body { background: #060a0f; color: #fff; font-family: -apple-system, sans-serif; margin: 0; padding: 2rem; }
+    h1 { font-weight: 300; letter-spacing: -0.02em; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1rem; }
+    .card { background: #111; border-radius: 8px; overflow: hidden; }
+    .card img { width: 100%; height: auto; display: block; aspect-ratio: 16/9; object-fit: cover; }
+    .card .info { padding: 1rem; }
+    .card h3 { margin: 0 0 0.5rem 0; font-size: 1rem; }
+    .card p { margin: 0; font-size: 0.8rem; color: #888; }
+  </style>
+</head>
+<body>
+  <h1>Operator Assets</h1>
+  <div class="grid" id="grid"></div>
+  <script>
+    fetch('data.json')
+      .then(r => r.json())
+      .then(data => {
+        const grid = document.getElementById('grid');
+        data.forEach(item => {
+          if (item.image) {
+            grid.innerHTML += `
+              <div class="card">
+                <img src="${item.image}" alt="${item.title}" loading="lazy">
+                <div class="info">
+                  <h3>${item.title}</h3>
+                  <p>${item.aspect}</p>
+                </div>
+              </div>
+            `;
+          }
+        });
+      });
+  </script>
+</body>
+</html>
