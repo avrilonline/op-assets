@@ -433,7 +433,8 @@
     "mode": "Gen",
     "res": "2400\u00d71256",
     "prompt": "Deep black background #060a0f with a very subtle lighter area in the center suggesting depth, extremely minimal \u2014 the entire image is essentially a controlled dark void with just enough tonal variation to prevent it reading as pure flat black, fine film grain texture across the entire surface, no objects no elements no character \u2014 pure brand background designed for white text and logo overlay, 1.91:1 aspect ratio for OG image usage, clean and atmospheric",
-    "notes": "Blank OG template. Add logotype and tagline in post-production."
+    "notes": "Blank OG template. Add logotype and tagline in post-production.",
+    "image": "assets/brand---og-card-template.png"
   },
   {
     "n": "44",
