@@ -163,7 +163,8 @@
     "res": "2048\u00d72048",
     "ref": "Reference image",
     "prompt": "A lime-green matte sphere robot with two recessed vertical-oval glossy black eyes in their default neutral position, eyes evenly sized and vertically centered on the face, no emotional inflection \u2014 calm and observant, sphere occupying 70% of frame, deep black background, standard key light from upper left, product photography, matte sandblast texture, glossy eye surfaces with faint grid reflections, film grain",
-    "notes": "Baseline expression. All other expressions deviate from this."
+    "notes": "Baseline expression. All other expressions deviate from this.",
+    "image": "assets/expression---neutral---default.png"
   },
   {
     "n": "17",
