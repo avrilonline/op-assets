@@ -183,7 +183,8 @@
     "mode": "Gen",
     "res": "2048\u00d72048",
     "prompt": "A lime-green matte sphere robot with two recessed vertical-oval glossy black eyes half-closed \u2014 upper portion of each eye covered as if heavy-lidded, creating short squat ovals instead of tall ones, overall appearance of drowsiness or powering down, sphere occupying 70% of frame, deep black background, dimmer softer lighting than normal with the key light reduced in intensity, product photography, matte sandblast texture, minimal reflections visible in the narrowed eye slits, film grain",
-    "notes": "Sleep/standby state. Useful for \"do not disturb\" or nighttime contexts."
+    "notes": "Sleep/standby state. Useful for \"do not disturb\" or nighttime contexts.",
+    "image": "assets/expression---sleepy---dimmed.png"
   },
   {
     "n": "19",
