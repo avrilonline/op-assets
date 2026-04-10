@@ -152,7 +152,8 @@
     "mode": "Gen",
     "res": "2752\u00d71536",
     "prompt": "Extreme macro of the surface of a lime-green matte sphere at near-microscopic scale, individual sandblast grain particles visible as a uniform random texture across the entire frame, the curvature of the sphere barely perceptible at this scale, a subtle color shift from brighter lime where light hits to deeper olive-green in shadow, no eyes or features visible \u2014 pure surface texture study, product material photography, even raking light from the left, extremely shallow depth of field with sharp center band, deep black in out-of-focus areas, no film grain to avoid confusing texture with grain",
-    "notes": "Material reference. Use as background texture tile or brand surface."
+    "notes": "Material reference. Use as background texture tile or brand surface.",
+    "image": "assets/hardware---surface-texture-extreme-macro.png"
   },
   {
     "n": "16",
