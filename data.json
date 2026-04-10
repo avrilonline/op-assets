@@ -91,7 +91,8 @@
     "mode": "Gen",
     "res": "2048\u00d72048",
     "prompt": "A lime-green matte sphere robot facing directly at camera with perfect bilateral symmetry, two identical recessed vertical-oval glossy black eyes equidistant from center, camera at exact eye level, sphere filling 80% of frame, deep black background, perfectly even flat lighting with no dominant key direction \u2014 both sides equally lit to emphasize symmetry, clinical product photography style like a spec sheet illustration, matte sandblast texture uniformly visible, both eyes showing identical grid reflections, no film grain, sharp across entire surface",
-    "notes": "Technical reference. Spec sheet, documentation, icon derivation."
+    "notes": "Technical reference. Spec sheet, documentation, icon derivation.",
+    "image": "assets/portrait---dead-on-symmetrical.png"
   },
   {
     "n": "10",
