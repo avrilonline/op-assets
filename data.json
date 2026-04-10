@@ -413,7 +413,8 @@
     "mode": "Gen",
     "res": "2048\u00d72048",
     "prompt": "Abstract radial line burst pattern centered in a square frame, hundreds of thin lime-green lines radiating outward from a dark center point, lines are 0.5px thin and perfectly straight, the center has a small dark circle void where no lines exist \u2014 suggesting the negative space of the character, lines become more transparent toward the edges of the frame, deep black background, clean geometric rendering, no film grain, high contrast between the thin green lines and black background",
-    "notes": "Graphic element. App launch animation keyframe, loading state."
+    "notes": "Graphic element. App launch animation keyframe, loading state.",
+    "image": "assets/abstract---radial-burst.png"
   },
   {
     "n": "42",
