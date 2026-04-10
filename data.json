@@ -403,7 +403,8 @@
     "mode": "Gen",
     "res": "2048\u00d72048",
     "prompt": "Seamless fine noise texture in lime-green and black, uniform random static pattern similar to analog television noise but tinted in matte lime-green tones, very fine grain scale, overall mid-dark value \u2014 not bright, the texture should tile seamlessly, no gradients or patterns within the noise \u2014 purely random, flat rendering, no depth or dimension, suitable as an overlay texture at low opacity",
-    "notes": "Overlay texture. Apply at 2-5% opacity over dark backgrounds for surface."
+    "notes": "Overlay texture. Apply at 2-5% opacity over dark backgrounds for surface.",
+    "image": "assets/abstract---noise---grain-texture.png"
   },
   {
     "n": "41",
