@@ -60,7 +60,8 @@
     "res": "2048\u00d72048",
     "ref": "Reference image",
     "prompt": "A lime-green matte sphere robot facing directly at camera, two recessed vertical-oval glossy black eyes centered on the face, sphere occupying 70% of the square frame, perfectly centered, deep black background #060a0f, no ground plane, no reflections, neutral studio key light from upper left with soft fill from lower right, clean product photography, matte sandblast surface finish with fine grain, glossy eye surfaces showing faint grid reflection, film grain",
-    "notes": "The canonical portrait. ID shot, avatar base, documentation reference."
+    "notes": "The canonical portrait. ID shot, avatar base, documentation reference.",
+    "image": "assets/portrait---front-straight.png"
   },
   {
     "n": "07",
