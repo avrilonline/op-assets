@@ -283,7 +283,8 @@
     "mode": "Gen",
     "res": "2048\u00d72048",
     "prompt": "A lime-green matte sphere robot positioned in the lower-right quadrant of a square frame, looking up and to the left toward generous empty space that occupies the upper-left two-thirds of the image \u2014 designed for text overlay, deep black background #060a0f, key light from upper left, the negative space is intentional and clean with no texture or elements, product photography, matte sandblast texture, glossy eyes with grid reflections, film grain, composition optimized for Instagram square post with text overlay area",
-    "notes": "Text-overlay optimized. Add headlines in the negative space."
+    "notes": "Text-overlay optimized. Add headlines in the negative space.",
+    "image": "assets/social---instagram-post-square.png"
   },
   {
     "n": "29",
