@@ -49,7 +49,8 @@
     "mode": "Gen",
     "res": "2048\u00d72048",
     "prompt": "A lime-green matte sphere robot seen from directly above, bird's-eye view looking straight down at the top of the sphere, two vertical-oval glossy black eyes visible in the lower portion of the circular form, sphere perfectly centered in square frame, deep black background, single overhead light source creating a bright highlight dead center on the apex of the sphere with shadow falling equally on all sides, product photography top-down flat lay style, matte sandblast surface texture, film grain, clean and geometric composition",
-    "notes": "Square format hero for social posts, app icons base, grid layouts."
+    "notes": "Square format hero for social posts, app icons base, grid layouts.",
+    "image": "assets/hero---top-down-overhead.png"
   },
   {
     "n": "06",
