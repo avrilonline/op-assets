@@ -313,7 +313,8 @@
     "mode": "Gen",
     "res": "2400\u00d71256",
     "prompt": "A lime-green matte sphere robot centered in a 1.91:1 OG image frame, sphere at medium scale occupying 35% of frame height, deep black background with extremely subtle radial lighter area behind the sphere suggesting depth, generous space above and below for safe areas in link preview crops, key light from upper left, clean product photography, matte sandblast texture, glossy eyes with grid reflections, film grain, composition designed for Open Graph link preview with safe margins on all sides",
-    "notes": "Link preview image. Will be auto-cropped differently per platform."
+    "notes": "Link preview image. Will be auto-cropped differently per platform.",
+    "image": "assets/social---og-image---link-preview.png"
   },
   {
     "n": "32",
