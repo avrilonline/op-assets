@@ -19,7 +19,7 @@
   <h1>Operator Assets</h1>
   <div class="grid" id="grid"></div>
   <script>
-    fetch('data.json')
+    fetch('data.json?v=' + Date.now())
       .then(r => r.json())
       .then(data => {
         const grid = document.getElementById('grid');
