@@ -193,7 +193,8 @@
     "mode": "Gen",
     "res": "2048\u00d72048",
     "prompt": "A lime-green matte sphere robot with two recessed vertical-oval glossy black eyes narrowed slightly as if squinting or concentrating, eyes 15% shorter vertically than default, positioned slightly closer together creating an intent focused look, sphere occupying 70% of frame, deep black background, key light from directly ahead creating flat even illumination on the face, product photography, matte sandblast texture, concentrated reflections in compressed eye surfaces, film grain",
-    "notes": "Processing/working state. Pair with code or search features."
+    "notes": "Processing/working state. Pair with code or search features.",
+    "image": "assets/expression---focused---squint.png"
   },
   {
     "n": "20",
