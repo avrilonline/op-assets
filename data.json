@@ -173,7 +173,8 @@
     "mode": "Gen",
     "res": "2048\u00d72048",
     "prompt": "A lime-green matte sphere robot with two recessed vertical-oval glossy black eyes opened 20% wider than normal \u2014 taller ovals indicating surprise or alertness, eyes positioned slightly higher on the face than default, sphere occupying 70% of frame, deep black background, brighter key light from upper left to emphasize the enlarged eye openings, product photography, matte sandblast texture, more prominent grid reflections in the larger eye surfaces, film grain",
-    "notes": "Notification state. Use for alerts, updates, \"new feature\" callouts."
+    "notes": "Notification state. Use for alerts, updates, \"new feature\" callouts.",
+    "image": "assets/expression---alert---wide-eyed.png"
   },
   {
     "n": "18",
