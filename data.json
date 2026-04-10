@@ -444,7 +444,8 @@
     "res": "1024\u00d71024",
     "ref": "Reference image",
     "prompt": "A lime-green matte sphere robot face tightly cropped in a 1:1 square, sphere filling 90% of the frame with minimal margin, face perfectly centered and symmetrical, two recessed vertical-oval glossy black eyes, deep black background visible only in the corners, flat even front lighting with no dramatic shadows to ensure readability at small sizes like 16x16 favicon, product photography, matte sandblast texture, clear glossy eye surfaces, no film grain, maximum sharpness and clarity for small-format usage",
-    "notes": "Favicon/avatar. Optimized for extreme downscaling to 16px."
+    "notes": "Favicon/avatar. Optimized for extreme downscaling to 16px.",
+    "image": "assets/brand---avatar---favicon.png"
   },
   {
     "n": "45",
