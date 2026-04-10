@@ -233,7 +233,8 @@
     "mode": "Gen",
     "res": "2752\u00d71536",
     "prompt": "A lime-green matte sphere robot hovering at eye level in a dark server room corridor, rows of black server racks with blue and green LED indicator lights stretching into the background on both sides, cool blue ambient lighting from overhead, the sphere lit by the server LEDs creating a cyan-blue rim light on one side and green status-light glow on the other, data center environment, cinematic photography with anamorphic lens creating horizontal flares from the LED points, matte sandblast sphere texture, film grain",
-    "notes": "DevOps/infrastructure context. Pairs with server monitoring feature."
+    "notes": "DevOps/infrastructure context. Pairs with server monitoring feature.",
+    "image": "assets/environment---server-room.png"
   },
   {
     "n": "24",
