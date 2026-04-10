@@ -253,7 +253,8 @@
     "mode": "Gen",
     "res": "2752\u00d71536",
     "prompt": "A lime-green matte sphere robot sitting on a worn wooden workbench surrounded by precision tools \u2014 small screwdrivers, tweezers, a magnifying loupe, solder iron, and scattered electronic components, sphere facing camera from the center of the bench, warm overhead work light creating a pool of illumination on the bench surface with dark workshop background, the sphere is the cleanest object in a cluttered environment, product-in-context photography, matte sandblast sphere texture contrasting with the rough wood grain, film grain",
-    "notes": "Maker/builder context. \"Built with care\" craftsmanship narrative."
+    "notes": "Maker/builder context. \"Built with care\" craftsmanship narrative.",
+    "image": "assets/environment---workshop-bench.png"
   },
   {
     "n": "26",
