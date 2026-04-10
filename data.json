@@ -71,7 +71,8 @@
     "res": "2048\u00d72048",
     "ref": "Reference image",
     "prompt": "A lime-green matte sphere robot rotated approximately 30 degrees to the right, showing three-quarter view with both eyes visible but the right eye appearing slightly narrower due to perspective, sphere occupying 70% of frame, deep black background, key light from upper left creating a highlight on the left hemisphere and shadow falloff across the right side, product photography, matte sandblast texture, both eyes maintaining glossy glass-like appearance with reflections, film grain",
-    "notes": "Conversational angle. Good for chat contexts and editorial usage."
+    "notes": "Conversational angle. Good for chat contexts and editorial usage.",
+    "image": "assets/portrait---three-quarter-right.png"
   },
   {
     "n": "08",
