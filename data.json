@@ -213,7 +213,8 @@
     "mode": "Gen",
     "res": "2048\u00d72048",
     "prompt": "A lime-green matte sphere robot with two recessed glossy black eyes curved into upward arcs \u2014 bottom edges rounded up as if smiling with the eyes, creating inverted-U or crescent shapes instead of straight ovals, conveying warmth and friendliness, sphere occupying 70% of frame, deep black background, warm-toned key light from upper left with a slightly golden tint, product photography, matte sandblast texture, reflections visible in curved glossy surfaces, film grain",
-    "notes": "Success/welcome state. Onboarding, confirmation screens, celebration."
+    "notes": "Success/welcome state. Onboarding, confirmation screens, celebration.",
+    "image": "assets/expression---happy---curved-eyes.png"
   },
   {
     "n": "22",
