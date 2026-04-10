@@ -203,7 +203,8 @@
     "mode": "Gen",
     "res": "2048\u00d72048",
     "prompt": "A lime-green matte sphere robot facing camera but with both recessed vertical-oval glossy black eyes shifted to the right side of their sockets, as if looking at something off-screen to the right, creates a sense of awareness and attentiveness, the shift is subtle \u2014 approximately 15% rightward displacement, sphere occupying 70% of frame, deep black background, key light from upper left, product photography, matte sandblast texture, eye reflections shifted to match the new gaze direction, film grain",
-    "notes": "Directional attention. Good for \"look at this\" callouts, paired with UI."
+    "notes": "Directional attention. Good for \"look at this\" callouts, paired with UI.",
+    "image": "assets/expression---glancing-right.png"
   },
   {
     "n": "21",
