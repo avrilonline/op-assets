@@ -373,7 +373,8 @@
     "mode": "Gen",
     "res": "2752\u00d71536",
     "prompt": "Abstract pattern of hundreds of tiny lime-green dots arranged in a precise uniform grid on a deep black background #060a0f, dots are small and evenly spaced, the grid subtly curves as if mapped onto an invisible sphere surface creating a gentle fish-eye distortion at the center, dots at the center are brighter and more saturated, dots toward the edges fade to darker olive tones, no sphere or character visible \u2014 purely abstract geometric pattern, clean digital rendering, no film grain, seamless background texture",
-    "notes": "Background tile. Use behind text blocks, slides, or as UI surfaces."
+    "notes": "Background tile. Use behind text blocks, slides, or as UI surfaces.",
+    "image": "assets/abstract---dot-grid-field.png"
   },
   {
     "n": "38",
