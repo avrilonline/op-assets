@@ -383,7 +383,8 @@
     "mode": "Gen",
     "res": "2752\u00d71536",
     "prompt": "Abstract topographic contour line pattern in lime-green on deep black background, thin continuous lines following concentric circular paths with organic undulation as if tracing the terrain of a sphere, lines are 1px thin and spaced 6-8px apart, center of the pattern is denser representing the apex of a sphere, overall effect suggests a wireframe globe or elevation map, clean vector-like rendering, no fill between lines \u2014 just strokes on black, no film grain, suitable as a background texture or pattern",
-    "notes": "Data/terrain metaphor. Technical audience, DevOps contexts."
+    "notes": "Data/terrain metaphor. Technical audience, DevOps contexts.",
+    "image": "assets/abstract---topographic-contours.png"
   },
   {
     "n": "39",
