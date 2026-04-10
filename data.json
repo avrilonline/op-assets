@@ -112,7 +112,8 @@
     "res": "2048\u00d72048",
     "ref": "Reference image",
     "prompt": "Back view of a lime-green matte sphere robot rotated 170 degrees away from camera, showing the rear panel: debossed \"SPHR-UNIT 002\" text in monospace sans-serif laser-etched into surface same hue as body but darker value, below it a 3-pin pogo connector with gold-colored pins seated in a brushed stainless steel rounded-rectangle surround, below that a USB-C port in a matching brushed steel surround, to the right side a circular speaker grille with a uniform dot perforation pattern, one glossy black eye partially visible at the far right edge, deep black background, macro product photography, key light from upper left revealing surface grain and metallic connector details, film grain",
-    "notes": "Hardware detail hero. Shows the \"device\" nature of the character."
+    "notes": "Hardware detail hero. Shows the \"device\" nature of the character.",
+    "image": "assets/hardware---back-panel-full.png"
   },
   {
     "n": "12",
